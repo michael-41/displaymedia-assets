@@ -14,6 +14,6 @@
 jpg|Clock Face|clock-face-1.jpg|10
 sequence|York|york/|12|600
 sequence|Flying A|flying_a/|12|600
-sequence|That's All Folks|porky/|12|600
+sequence|That's All Folks|thats_all_folks/|12|600
 clock_analog|Analog Clock|clock|15
 clock_digital|Digital Clock|clock|15
