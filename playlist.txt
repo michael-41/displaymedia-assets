@@ -13,9 +13,17 @@
 #
 # jpg|Clock Face|clock-face-1.jpg|10
 
+jpg|Imgur Test|https://i.imgur.com/xUhUPxA.jpeg|10
 sequence|That's All Folks|thats_all_folks/|12|600
-jpg|Imgur Test|https://i.imgur.com/xUhUPxA.jpeg|600
+jpg|Imgur Test|https://i.imgur.com/VIxHLXP.jpeg|10
+jpg|Imgur Test|https://i.imgur.com/8OLUlsr.jpeg|10
 sequence|York|york/|12|600
+jpg|Imgur Test|https://i.imgur.com/L1i6Suj.jpeg|10
+jpg|Imgur Test|https://i.imgur.com/AZrQQfl.jpeg|10
 sequence|Flying A|flying_a/|12|600
+jpg|Imgur Test|https://i.imgur.com/GfMq2Hi.jpeg|10
 clock_analog|Analog Clock|clock|600
+jpg|Imgur Test|https://i.imgur.com/qH4IT09.jpeg|10
 clock_digital|Digital Clock|clock|600
+jpg|Imgur Test|https://i.imgur.com/yI0KWH5.jpeg|10
+
