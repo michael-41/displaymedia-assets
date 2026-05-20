@@ -13,6 +13,9 @@
 #
 # Name | URL | Type | Duration | Brightness | Orientation
 #
+# Orientation values: top, bottom, left, right
+# Brightness: 100, 75, 50, 25
+#
 # jpg|Clock Face|clock-face-1.jpg|10
 
 jpg|Imgur Test|https://i.imgur.com/xUhUPxA.jpeg|10
