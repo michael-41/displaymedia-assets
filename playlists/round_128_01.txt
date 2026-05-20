@@ -26,6 +26,7 @@ jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|top
 sequence|York|york/|60|600
 jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30
+clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|100|top
 jpg|Liquor in the Back|https://i.imgur.com/AZrQQfl.jpeg|30
 sequence|Flying A|flying_a/|60|600
 jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30
