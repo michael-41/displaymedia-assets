@@ -22,6 +22,7 @@ jpg|Imgur Test|https://i.imgur.com/xUhUPxA.jpeg|10
 sequence|That's All Folks|thats_all_folks/|12|600
 jpg|Imgur Test|https://i.imgur.com/VIxHLXP.jpeg|10
 jpg|Imgur Test|https://i.imgur.com/8OLUlsr.jpeg|10
+clock_analog|Analog Clock|clock-face-1|600
 sequence|York|york/|12|600
 jpg|Imgur Test|https://i.imgur.com/L1i6Suj.jpeg|10
 jpg|Imgur Test|https://i.imgur.com/AZrQQfl.jpeg|10
