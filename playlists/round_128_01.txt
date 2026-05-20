@@ -11,24 +11,25 @@
 # then falls back to:
 #   folder/folder_000.jpg through folder/folder_004.jpg
 #
-# Name | URL | Type | Duration | Brightness | Orientation
+# Type | Display Name | Media Path / URL | Duration Seconds | Frame MS | Brightness | Orientation
 #
+# Frame ms: usually defaults to 0.6 seconds = 600 ms
 # Orientation values: top, bottom, left, right
 # Brightness: 100, 75, 50, 25
 #
 # jpg|Clock Face|clock-face-1.jpg|10
 
-jpg|Imgur Test|https://i.imgur.com/xUhUPxA.jpeg|10
-sequence|That's All Folks|thats_all_folks/|12|600
-jpg|Imgur Test|https://i.imgur.com/VIxHLXP.jpeg|10
-jpg|Imgur Test|https://i.imgur.com/8OLUlsr.jpeg|10
-clock_analog|Analog Clock|clock-face-1|600
-sequence|York|york/|12|600
-jpg|Imgur Test|https://i.imgur.com/L1i6Suj.jpeg|10
-jpg|Imgur Test|https://i.imgur.com/AZrQQfl.jpeg|10
-sequence|Flying A|flying_a/|12|600
-jpg|Imgur Test|https://i.imgur.com/GfMq2Hi.jpeg|10
-clock_analog|Analog Clock|clock|600
-jpg|Imgur Test|https://i.imgur.com/qH4IT09.jpeg|10
-clock_digital|Digital Clock|clock|600
-jpg|Imgur Test|https://i.imgur.com/yI0KWH5.jpeg|10
+jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30
+sequence|That's All Folks|thats_all_folks/|60|600
+jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|30
+jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpg/clock-face-1.jpg|600|600|100|top
+sequence|York|york/|60|600
+jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30
+jpg|Liquor in the Back|https://i.imgur.com/AZrQQfl.jpeg|30
+sequence|Flying A|flying_a/|60|600
+jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30
+clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpg/clock-face-2.jpg|600|600|100|top
+jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|30
+clock_digital|Digital Clock|NA|600
+jpg|Lube Job Girl|https://i.imgur.com/yI0KWH5.jpeg|30
