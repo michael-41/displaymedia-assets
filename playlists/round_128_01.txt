@@ -19,18 +19,18 @@
 #
 # jpg|Clock Face|clock-face-1.jpg|10
 
-jjpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30|||
-sequence|That's All Folks|thats_all_folks/|60|600||
-jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|30|||
-jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30|||
-clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|75|right
-sequence|York|york/|60|600||right
-jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30|||right
-clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|right
-jpg|Liquor in the Back|https://i.imgur.com/AZrQQfl.jpeg|30|||right
-sequence|Flying A|flying_a/|60|600||right
-jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30|||right
-clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|75|right
-jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|30|||right
-clock_digital|Digital Clock|NA|600||75|right
-jpg|Lube Job Girl|https://i.imgur.com/yI0KWH5.jpeg|30|||right
+jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30|||top
+sequence|That's All Folks|thats_all_folks/|60|600||top
+jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|30|||top
+jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30|||top
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|75|top
+sequence|York|york/|60|600||top
+jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30|||top
+clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|top
+jpg|Liquor in the Back|https://i.imgur.com/AZrQQfl.jpeg|30|||top
+sequence|Flying A|flying_a/|60|600||top
+jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30|||top
+clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|75|top
+jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|30|||top
+clock_digital|Digital Clock|NA|600||75|top
+jpg|Lube Job Girl|https://i.imgur.com/yI0KWH5.jpeg|30|||top
