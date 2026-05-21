@@ -18,8 +18,9 @@
 # Brightness: 100, 75, 50, 25
 #
 # jpg|Clock Face|clock-face-1.jpg|10
+# system_config|Device Config|device_id=clocktower_01;device_profile=esp32_2424s012_round_128;playlist_id=clocktower_01;playlist_url=;rotation_correction_deg=1.5|0|600|100|top
 
-jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30|||top
+system_config|Device Config|device_id=clocktower_01;device_profile=esp32_2424s012_round_128;playlist_id=clocktower_01;playlist_url=;rotation_correction_deg=1.5|0|600|100|topjpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30|||top
 sequence|That's All Folks|thats_all_folks/|60|600||top
 jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|30|||top
 jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30|||top
