@@ -1,1 +1,39 @@
+# DisplayMediaEngine V4 playlist manifest 
+# Device ID: cyd_28_01.txt
+# Format:
+# type|display name|path|hold seconds|optional frame ms
+#
+# Supported type values:
+# jpg, sequence, clock_analog, clock_digital
+#
+# For sequence entries, just provide the folder name.
+# The sketch auto-tries frame numbering:
+#   folder/folder_001.jpg through folder/folder_005.jpg
+# then falls back to:
+#   folder/folder_000.jpg through folder/folder_004.jpg
+#
+# Type | Display Name | Media Path / URL | Duration Seconds | Frame MS | Brightness | Orientation
+#
+# Frame ms: usually defaults to 0.6 seconds = 600 ms
+# Orientation values: top, bottom, left, right
+# Brightness: 100, 75, 50, 25
+#
+# jpg|Clock Face|clock-face-1.jpg|10
+# system_config|Device Config|device_id=clocktower_01;device_profile=esp32_28_CYB;playlist_id=clocktower_01;playlist_url=;rotation_correction_deg=1.5|0|600|100|top
 
+system_config|Device Config|device_id=clocktower_01;device_profile=esp32_28_CYB;playlist_id=clocktower_01;playlist_url=;rotation_correction_deg=0|0|600|100|topjpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30|||top
+jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30|||mount
+sequence|That's All Folks|thats_all_folks/|60|600||mount
+jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|30|||mount
+jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30|||mount
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|75|mount
+sequence|York|york/|60|600||mount
+jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30|||mount
+clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|mount
+jpg|Liquor in the Back|https://i.imgur.com/AZrQQfl.jpeg|30|||mount
+sequence|Flying A|flying_a/|60|600||mount
+jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30|||mount
+clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|75|mount
+jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|30|||mount
+clock_digital|Digital Clock|NA|600||75|mount
+jpg|Lube Job Girl|https://i.imgur.com/yI0KWH5.jpeg|30|||mount
