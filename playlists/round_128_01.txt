@@ -25,14 +25,14 @@ jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30|||mount
 sequence|That's All Folks|thats_all_folks/|60|600||mount
 jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|30|||mount
 jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30|||mount
-clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|75|mount
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|25|mount
 sequence|York|york/|60|600||mount
 jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30|||mount
 clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|mount
 jpg|Liquor in the Back|https://i.imgur.com/AZrQQfl.jpeg|30|||mount
 sequence|Flying A|flying_a/|60|600||mount
 jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30|||mount
-clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|75|mount
+clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|25|mount
 jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|30|||mount
-clock_digital|Digital Clock|NA|600||75|mount
+clock_digital|Digital Clock|NA|600||50|mount
 jpg|Lube Job Girl|https://i.imgur.com/yI0KWH5.jpeg|30|||mount
