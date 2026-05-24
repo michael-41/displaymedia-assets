@@ -22,10 +22,16 @@
 # system_config|Device Config|device_id=cyd_28_01;device_profile=esp32_2432s028_portrait;playlist_id=cyd_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/cyd_28_01.txt|0|600|255|portrait
 system_config|Device Config|device_id=cyd_28_01;device_profile=esp32_2432s028_portrait;playlist_id=cyd_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/cyd_28_01.txt|0|600|255|portrait
 jpg|BLE Loco|https://i.imgur.com/GZbJO39.jpeg|30|600|100|top
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|25|mount
+sequence|York|york/|60|600||mount
 jpg|Sparkplug Girl|https://i.imgur.com/AZHFY1i.jpeg|30|600|100|top
+clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|mount
 jpg|Piston Girl|https://i.imgur.com/srGSdHF.jpeg|30|600|100|top
+sequence|Flying A|flying_a/|60|600||mount
 jpg|Lube Girl|https://i.imgur.com/MBl27e5.jpeg|30|600|100|top
+clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|25|mount
 jpg|Lucky Lady|https://i.imgur.com/KJsJW2Y.jpeg|30|600|100|top
+clock_digital|Digital Clock|NA|600||50|mount
 jpg|Liquor in the Front|https://i.imgur.com/pK7Oy77.jpeg|30|600|100|top
 jpg|TTA Girl|https://i.imgur.com/jyVSuBn.jpeg|30|600|100|top
 jpg|Buttercup|https://i.imgur.com/0kDw0Na.jpeg|30|600|100|top
