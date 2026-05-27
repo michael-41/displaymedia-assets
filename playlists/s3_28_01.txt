@@ -21,19 +21,24 @@
 # jpg|Clock Face|clock-face-1.jpg|10
 # system_config|Device Config|device_id=s3_28_01;device_profile=ESP32S3_28_IPS_ILI9341_FT63x6;playlist_id=s3_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/s3_28_01.txt|0|600|255|portrait
 system_config|Device Config|device_id=s3_28_01;device_profile=ESP32S3_28_IPS_ILI9341_FT63x6;playlist_id=s3_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/s3_28_01.txt|0|600|255|portrait
-jpg|BLE Loco|https://i.imgur.com/GZbJO39.jpeg|30|600|100|top
-sequence|That's All Folks|thats_all_folks/|30|600||mount
-clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|30|600|25|right
-sequence|York|york/|30|600||right
-jpg|Sparkplug Girl|https://i.imgur.com/AZHFY1i.jpeg|30|600|100|right
-clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|30|600|75|right
-jpg|Piston Girl|https://i.imgur.com/srGSdHF.jpeg|30|600|100|right
-sequence|Flying A|flying_a/|30|600||right
-jpg|Lube Girl|https://i.imgur.com/MBl27e5.jpeg|30|600|100|right
-clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|30|600|25|right
-jpg|Lucky Lady|https://i.imgur.com/KJsJW2Y.jpeg|30|600|100|right
-clock_digital|Digital Clock|NA|30||50|right
-jpg|Liquor in the Front|https://i.imgur.com/pK7Oy77.jpeg|30|600|100|right
-jpg|TTA Girl|https://i.imgur.com/jyVSuBn.jpeg|30|600|100|right
-jpg|Buttercup|https://i.imgur.com/0kDw0Na.jpeg|30|600|100|right
-jpg|girl laying with cola|https://i.imgur.com/QnNiEdz.jpeg|30|600|100|top
+jpg|BLE Loco|https://i.imgur.com/GZbJO39.jpeg|60|600|100|right
+jpg|girl laying with col|https://i.imgur.com/QnNiEdz.jpeg|60|600|100|right
+sequence|That's All Folks|thats_all_folks/|60|600|100|right
+jpg|Texas & Mexican|https://i.imgur.com/WPK70NT.jpeg|60|600|100|right
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|mount
+jpg|AI MAAZ|https://i.imgur.com/MbZEHO0.png|60|600|100|right
+jpg|Kato Down Town|https://i.imgur.com/t3101Qs.png|60|600|100|right
+sequence|Flying A|flying_a/|60|600|100|right
+jpg|MAAZ Capt America|https://i.imgur.com/tcjFjR3.jpeg|60|600|100|right
+jpg|The Chief SF|https://i.imgur.com/C3pZQVG.jpeg|60|600|100|right
+jpg|Texas Flag|https://i.imgur.com/4v0Pa0r.jpeg|60|600|100|right
+jpg|Texas Rose|https://i.imgur.com/44zr9jM.jpeg|60|600|100|right
+clock_digital|Digital Clock|NA|600||75|mount
+sequence|York|york/|60|600|100|right
+jpg|Guitar Flag|https://i.imgur.com/rvtnTbq.jpeg|60|600|100|right
+jpg|MAAZ Train Room|https://i.imgur.com/OxzXau0.png|60|600|100|right
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|right
+jpg|Big Boy UP Poster|https://i.imgur.com/MvDIB9P.jpeg|60|600|100|top
+jpg|girl sits with cola|https://i.imgur.com/ccZsK8C.jpeg|60|600|100|right
+jpg|Man sips cola|https://i.imgur.com/y7bLVec.jpeg|60|600|100|right
+jpg|Lube Girl|https://i.imgur.com/MBl27e5.jpeg|60|600|100|top
