@@ -21,23 +21,23 @@
 # system_config|Device Config|device_id=clocktower_01;device_profile=esp32_2424s012_round_128;playlist_id=clocktower_01;playlist_url=;rotation_correction_deg=1.5|0|600|100|top
 #
 system_config|Device Config|device_id=c3_128_01;device_profile=esp32c3_2424s012c_round_128_gc9a01;playlist_id=c3_128_01;playlist_url=;rotation_correction_deg=0
-jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|30||100|mount
-sequence|That's All Folks|thats_all_folks/|60|600|100|mount
+jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|60||100|right
+sequence|That's All Folks|thats_all_folks/|60|600|100|right
 clock_digital|Digital Clock|NA|600||75|mount
-jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|30||100|mount
-jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|30||100|mount
-clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|mount
-sequence|York|york/|60|600|100|mount
-jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30||100|mount
-clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|mount
-jpg|Liquor in the Front|https://i.imgur.com/AZrQQfl.jpeg|30||100|mount
-sequence|Flying A|flying_a/|60|600|100|mount
+jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|60||100|right
+jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|60||100|right
+clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|right
+sequence|York|york/|60|600|100|right
+jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|60||100|right
+clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|right
+jpg|Liquor in the Front|https://i.imgur.com/AZrQQfl.jpeg|60||100|right
+sequence|Flying A|flying_a/|60|600|100|right
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|mount
 jpg|Texas Rose|https://i.imgur.com/44zr9jM.jpeg|60|600|100|top
-jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30||100|mount
-clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|75|mount
-jpg|Texas & Mexican|https://i.imgur.com/WPK70NT.jpeg|60|600|100|top
-jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|30||100|mount
-clock_digital|Digital Clock|NA|600||75|mount
-jpg|Lube Girl|https://i.imgur.com/yI0KWH5.jpeg|30||100|mount
-jpg|BLE Loco|https://imgur.com/KUsSGxK|60|600|100|top
+jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|60||100|right
+clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|75|right
+jpg|Texas & Mexican|https://i.imgur.com/WPK70NT.jpeg|60|600|100|right
+jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|60||100|right
+clock_digital|Digital Clock|NA|600||75|right
+jpg|Lube Girl|https://i.imgur.com/yI0KWH5.jpeg|60||100|right
+jpg|BLE Loco|https://imgur.com/KUsSGxK|60|600|100|right
