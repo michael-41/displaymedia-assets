@@ -36,4 +36,4 @@ clock_digital|Digital Clock|NA|30||50|right
 jpg|Liquor in the Front|https://i.imgur.com/pK7Oy77.jpeg|30|600|100|right
 jpg|TTA Girl|https://i.imgur.com/jyVSuBn.jpeg|30|600|100|right
 jpg|Buttercup|https://i.imgur.com/0kDw0Na.jpeg|30|600|100|right
-jpg|girl laying with cola|https://i.imgur.com/QnNiEdz.jpeg/QnNiEdz.jpeg|30|600|100|top
+jpg|girl laying with cola|https://i.imgur.com/QnNiEdz.jpeg|30|600|100|top
