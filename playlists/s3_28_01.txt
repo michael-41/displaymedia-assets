@@ -21,7 +21,7 @@
 # jpg|Clock Face|clock-face-1.jpg|10
 # system_config|Device Config|device_id=s3_28_01;device_profile=ESP32S3_28_IPS_ILI9341_FT63x6;playlist_id=s3_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/s3_28_01.txt|0|600|255|portrait
 system_config|Device Config|device_id=s3_28_01;device_profile=ESP32S3_28_IPS_ILI9341_FT63x6;playlist_id=s3_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/s3_28_01.txt|0|600|255|portrait
-jpg|BLE Loco|https://i.imgur.com/GZbJO39.jpeg|30|600|100|right
+jpg|BLE Loco|https://i.imgur.com/GZbJO39.jpeg|30|600|100|bottom
 sequence|That's All Folks|thats_all_folks/|30|600||mount
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|30|600|25|right
 sequence|York|york/|30|600||right
@@ -36,4 +36,4 @@ clock_digital|Digital Clock|NA|30||50|right
 jpg|Liquor in the Front|https://i.imgur.com/pK7Oy77.jpeg|30|600|100|right
 jpg|TTA Girl|https://i.imgur.com/jyVSuBn.jpeg|30|600|100|right
 jpg|Buttercup|https://i.imgur.com/0kDw0Na.jpeg|30|600|100|right
-jpg|girl laying with cola|https://i.imgur.com/QnNiEdz.jpeg|30|600|100|right
+jpg|girl laying with cola|https://i.imgur.com/QnNiEdz.jpeg/QnNiEdz.jpeg|30|600|100|bottom
