@@ -21,6 +21,7 @@
 # jpg|Clock Face|clock-face-1.jpg|10
 # system_config|Device Config|device_id=s3_28_01;device_profile=ESP32S3_28_IPS_ILI9341_FT63x6;playlist_id=s3_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/s3_28_01.txt|0|600|255|portrait
 system_config|Device Config|device_id=s3_28_01;device_profile=ESP32S3_28_IPS_ILI9341_FT63x6;playlist_id=s3_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/s3_28_01.txt|0|600|255|portrait
+sequence|Lifesavers|Lifesavers/|60|600|100|top
 jpg|BLE Loco|https://i.imgur.com/GZbJO39.jpeg|60|600|100|top
 jpg|girl laying with col|https://i.imgur.com/QnNiEdz.jpeg|60|600|100|top
 sequence|That's All Folks|thats_all_folks/|60|600|100|top
