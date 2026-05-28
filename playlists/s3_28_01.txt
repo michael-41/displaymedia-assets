@@ -28,7 +28,7 @@ sequence|That's All Folks|thats_all_folks/|60|600|100|top
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|top
 jpg|AI MAAZ|https://i.imgur.com/iuYF2Hj.jpeg|60|600|100|top
 jpg|Kato Down Town|https://i.imgur.com/1FtpgRl.jpeg|60|600|100|top
-sequence|Flying A|flying_a/|60|600|100|top
+sequence|Flying A|flying_a/|60|300|100|top
 jpg|MAAZ Capt America|https://i.imgur.com/tcjFjR3.jpeg|60|600|100|top
 jpg|The Chief SF|https://i.imgur.com/C3pZQVG.jpeg|60|600|100|top
 sequence|CrackerJacks|CrackerJacks/|60|600|100|top
