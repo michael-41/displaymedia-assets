@@ -33,6 +33,7 @@ jpg|Kato Down Town|https://i.imgur.com/1FtpgRl.jpeg|60|600|100|top
 sequence|Flying A|flying_a/|60|600|100|top
 jpg|MAAZ Capt America|https://i.imgur.com/tcjFjR3.jpeg|60|600|100|top
 jpg|The Chief SF|https://i.imgur.com/C3pZQVG.jpeg|60|600|100|top
+sequence|CrackerJacks|CrackerJacks/|60|600|100|top
 jpg|Texas Flag|https://i.imgur.com/4v0Pa0r.jpeg|60|600|100|top
 jpg|Texas Rose|https://i.imgur.com/44zr9jM.jpeg|60|600|100|top
 clock_digital|Digital Clock|NA|600||75|top
