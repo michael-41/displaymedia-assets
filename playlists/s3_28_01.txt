@@ -26,8 +26,8 @@ jpg|girl laying with col|https://i.imgur.com/QnNiEdz.jpeg|60|600|100|top
 sequence|That's All Folks|thats_all_folks/|60|600|100|top
 jpg|Texas & Mexican|https://i.imgur.com/WPK70NT.jpeg|60|600|100|top
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|top
-jpg|AI MAAZ|https://i.imgur.com/MbZEHO0.png|60|600|100|top
-jpg|Kato Down Town|https://i.imgur.com/t3101Qs.png|60|600|100|top
+jpg|AI MAAZ|https://i.imgur.com/iuYF2Hj.jpeg|60|600|100|top
+jpg|Kato Down Town|https://i.imgur.com/1FtpgRl.jpeg|60|600|100|top
 sequence|Flying A|flying_a/|60|600|100|top
 jpg|MAAZ Capt America|https://i.imgur.com/tcjFjR3.jpeg|60|600|100|top
 jpg|The Chief SF|https://i.imgur.com/C3pZQVG.jpeg|60|600|100|top
@@ -36,7 +36,7 @@ jpg|Texas Rose|https://i.imgur.com/44zr9jM.jpeg|60|600|100|top
 clock_digital|Digital Clock|NA|600||75|top
 sequence|York|york/|60|600|100|top
 jpg|Guitar Flag|https://i.imgur.com/rvtnTbq.jpeg|60|600|100|top
-jpg|MAAZ Train Room|https://i.imgur.com/OxzXau0.png|60|600|100|top
+jpg|MAAZ Train Room|https://i.imgur.com/6qDYw9z.jpeg|60|600|100|top
 clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|100|top
 jpg|Big Boy UP Poster|https://i.imgur.com/MvDIB9P.jpeg|60|600|100|top
 jpg|girl sits with cola|https://i.imgur.com/ccZsK8C.jpeg|60|600|100|top
