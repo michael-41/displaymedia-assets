@@ -32,7 +32,7 @@ jpg|Lucky Lady|https://i.imgur.com/KJsJW2Y.jpeg|60|600|100|right
 jpg|Liquor in the Front|https://i.imgur.com/pK7Oy77.jpeg|60|600|100|right
 jpg|TTA Girl|https://i.imgur.com/jyVSuBn.jpeg|60|600|100|right
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|right
-sequence|Flying A|flying_a/|60|600|100|right
+sequence|Flying A|flying_a/|60|300|100|right
 jpg|Buttercup|https://i.imgur.com/0kDw0Na.jpeg|60|600|100|right
 jpg|El Capitan Poster|https://i.imgur.com/qASAke1.jpeg|60|600|100|right
 jpg|Big Boy UP Poster|https://i.imgur.com/MvDIB9P.jpeg|60|600|100|right
