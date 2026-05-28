@@ -21,6 +21,7 @@
 # system_config|Device Config|device_id=clocktower_01;device_profile=esp32_2424s012_round_128;playlist_id=clocktower_01;playlist_url=;rotation_correction_deg=1.5|0|600|100|top
 #
 system_config|Device Config|device_id=c3_128_01;device_profile=esp32c3_2424s012c_round_128_gc9a01;playlist_id=c3_128_01;playlist_url=;rotation_correction_deg=0
+sequence|Lifesavers|Lifesavers/|60|600|100|top
 jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|60||100|right
 sequence|That's All Folks|thats_all_folks/|60|600|100|right
 clock_digital|Digital Clock|NA|600||75|mount
