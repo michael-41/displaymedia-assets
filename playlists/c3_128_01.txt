@@ -31,7 +31,7 @@ sequence|York|york/|60|600|100|right
 jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|60||100|right
 clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|right
 jpg|Liquor in the Front|https://i.imgur.com/AZrQQfl.jpeg|60||100|right
-sequence|Flying A|flying_a/|60|600|100|right
+sequence|Flying A|flying_a/|60|300|100|right
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|mount
 jpg|Texas Rose|https://i.imgur.com/44zr9jM.jpeg|60|600|100|right
 jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|60||100|right
