@@ -22,6 +22,7 @@
 # system_config|Device Config|device_id=cyd_28_01;device_profile=esp32_2432s028_portrait;playlist_id=cyd_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/cyd_28_01.txt|0|600|255|portrait
 system_config|Device Config|device_id=cyd_28_01;device_profile=esp32_2432s028_portrait;playlist_id=cyd_28_01;playlist_url=https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/playlists/cyd_28_01.txt|0|600|255|portrait
 jpg|Sparkplug Girl|https://i.imgur.com/AZHFY1i.jpeg|60|600|100|right
+sequence|Morton Salt|morton_salt/|60|600|100|right
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|mount
 jpg|Piston Girl|https://i.imgur.com/srGSdHF.jpeg|60|600|100|right
 sequence|That's All Folks|thats_all_folks/|60|600|100|right
