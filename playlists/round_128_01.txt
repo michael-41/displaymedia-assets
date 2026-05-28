@@ -30,7 +30,7 @@ sequence|York|york/|60|600||mount
 jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|30|||mount
 clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|mount
 jpg|Liquor in the Back|https://i.imgur.com/AZrQQfl.jpeg|30|||mount
-sequence|Flying A|flying_a/|60|300||mount
+sequence|Flying A|flying_a/|60|100||mount
 jpg|Paint Girl|https://i.imgur.com/GfMq2Hi.jpeg|30|||mount
 clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|25|mount
 jpg|Sparkplug Girl|https://i.imgur.com/qH4IT09.jpeg|30|||mount
