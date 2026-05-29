@@ -37,6 +37,7 @@ clock_digital|Digital Clock|NA|600||75|top
 sequence|York|york/|60|600|100|top
 jpg|Guitar Flag|https://i.imgur.com/rvtnTbq.jpeg|60|600|100|top
 jpg|MAAZ Train Room|https://i.imgur.com/6qDYw9z.jpeg|60|600|100|top
+sequence|CircusTiger|CircusTiger/|60|1|100|top
 clock_analog|Analog Clock Face 2|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-2.jpg|600|600|100|top
 jpg|girl sits with cola|https://i.imgur.com/ccZsK8C.jpeg|60|600|100|top
 jpg|Man sips cola|https://i.imgur.com/y7bLVec.jpeg|60|600|100|top
