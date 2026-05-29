@@ -22,12 +22,12 @@
 #
 system_config|Device Config|device_id=c3_128_01;device_profile=esp32c3_2424s012c_round_128_gc9a01;playlist_id=c3_128_01;playlist_url=;rotation_correction_deg=0
 jpg|Piston Girl|https://i.imgur.com/xUhUPxA.jpeg|60||100|right
-sequence|That's All Folks|thats_all_folks/|60|1000|100|right
+sequence|That's All Folks|thats_all_folks/|60|600|100|right
 clock_digital|Digital Clock|NA|600||75|mount
 jpg|girl laying with cola|https://i.imgur.com/VIxHLXP.jpeg|60||100|right
 jpg|lucky lady|https://i.imgur.com/8OLUlsr.jpeg|60||100|right
 clock_analog|Analog Clock Face 1|https://raw.githubusercontent.com/michael-41/displaymedia-assets/main/jpgs/clock-face-1.jpg|600|600|100|right
-sequence|York|york/|60|1000|100|right
+sequence|York|york/|60|600|100|right
 jpg|girl sits with cola|https://i.imgur.com/L1i6Suj.jpeg|60||100|right
 clock_analog|Analog Clock Face 1|https://i.imgur.com/KUsSGxK.jpeg|600|600|75|right
 jpg|Liquor in the Front|https://i.imgur.com/AZrQQfl.jpeg|60||100|right
